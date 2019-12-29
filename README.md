@@ -27,3 +27,5 @@ Follow the following steps to successfully run the GESTUREGO app:
   * On clicking the 'START RECORDING' button, the user's video starts to record until we click the 'STOP RECORDING' button
   * On click of the 'UPLOAD' button, the recorded video is uploaded to the server
   
+# Link for the App
+https://drive.google.com/open?id=1stNGiKcWR65whCvSWrVpX5vL_6aNaSzy
